@@ -5,6 +5,7 @@ langchain-openai
 langchain-anthropic
 python-dotenv
 pydantic
+duckduckgo-search
 
 google-genai
 langchain-google-genai
