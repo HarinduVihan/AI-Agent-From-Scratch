@@ -1,4 +1,4 @@
-# 🦈 LangChain Research Assistant (Gemini Tool-Calling Agent)
+# 🤖 LangChain Research Assistant (Gemini Tool-Calling Agent)
 
 This project implements a robust research assistant using LangChain's Tool Calling Agent, powered by the **Gemini 2.5 Flash** model. The agent is designed to use external tools for factual searches, synthesize the information, and output the final research in a clean, predictable structured format using Pydantic.
 
@@ -79,7 +79,7 @@ The project requires a Gemini API Key.
 GOOGLE_API_KEY="YOUR_API_KEY_HERE"
 ```
 
-🚀 How to Run Locally
+## 🚀 How to Run Locally
 
 1. Ensure your virtual environment is active and the .env file is configured.
 
